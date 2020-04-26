@@ -1,2 +1,6 @@
 Test BugFix
+<<<<<<< HEAD
 Test 3rd
+=======
+Test 2nd
+>>>>>>> BugFix
